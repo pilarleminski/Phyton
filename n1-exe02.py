@@ -1,5 +1,6 @@
 '''
-Elabore um programa que leia uma data como uma string no formato dd/mm/aaaa, e informe se esta data é válida ou não! Use fatiamento (slices) para separar as partes da data. Caso a data seja válida, escreva a mesma com o mês por extenso.
+Elabore um programa que leia uma data como uma string no formato dd/mm/aaaa, e informe se esta data é válida ou não! Use fatiamento 
+(slices) para separar as partes da data. Caso a data seja válida, escreva a mesma com o mês por extenso.
 No caso de a data ser recusada, informe o motivo: dia inválido, mês inválido, ano não bissexto.
 O programa deve ter tratamento de exceção e só aceitar datas no formato acima mencionado.
 Prever repetição.
